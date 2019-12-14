@@ -1,0 +1,166 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #333;
+}
+
+.links{
+	width: 100%;
+	text-align: center;
+	background-color: #B7A16C; 
+}
+
+.links a{
+	text-decoration: none;
+	color: #38322D;
+	font-family: 'Viga', sans-serif;
+}
+
+.links ul{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.links ul, li{
+	margin-left: 50px;
+	margin-right: 50px; 
+	display: inline-block;
+}
+
+.title{
+	background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4)), url(../img/2.jpg) no-repeat fixed 100%;
+	padding: 22% 0 22% 0%;
+	text-align: center;
+}
+
+.podtitle {
+	font-size: 140pt;
+	font-family: 'Anton', sans-serif;
+	color: white;
+}
+
+.title p{
+	font-size: 30pt;
+	font-family: 'Lobster', cursive;
+	color: white;
+}
+
+.title, .podtitle, p{
+	line-height: 55px;
+}
+
+.rest{
+	background: url(../img/5.jpg) no-repeat fixed 100%;
+	padding-top: 5%;
+	text-align: center;
+	width: 100%;
+}
+
+.rest h6{
+	color: #B7A16C;
+	margin-top: 110px;
+	text-align: center;
+	font-size: 30pt;
+	margin-bottom: 100px;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+.numbers{
+	color: white;
+	border-bottom: 2px #B7A16C solid;
+
+}
+
+.littleboxes{
+	color: #B7A16C;
+	font-size: 21pt;
+	display: inline-block;
+	margin-bottom: 400px;
+	font-family: 'Anton', sans-serif;
+}
+
+.box{
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+.why{
+	background: url(../img/9-02.jpg) fixed 50%;
+	background-size: 1500px 1200px;
+	padding-top: 22%;
+	padding-bottom: 22%;
+	text-align: center;
+	width: 100%;
+}
+
+.why h6{
+	font-size: 50pt;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+.why p{
+	line-height: 100px;
+	font-size: 15pt;
+	font-family: 'Anton', sans-serif;
+}
+
+.why h6, p{
+	line-height: 60px;
+	color: white;
+}
+
+.time{
+	background: url(../img/10-01-01.jpg) no-repeat fixed 50%;
+	background-size: 1800px 1100px;
+	padding-top: 24%;
+	padding-bottom: 24%;
+	text-align: center;
+	width: 100%;
+}
+
+.time h1{
+	font-family: 'Archivo Black', sans-serif;
+	font-size: 40pt;
+	color: #B7A16C;
+}
+
+.time p{
+	line-height: 100px;
+	font-family: 'Anton', sans-serif;
+}
+
+.bar{
+	background: url(../img/11-01.jpg) no-repeat fixed 50%;
+	background-size: 1800px 1100px;
+	padding-top: 24%;
+	padding-bottom: 22%;
+	text-align: center;
+	width: 100%;
+}
+
+.bar h1{
+	font-size: 40pt;
+	color: white;
+	font-family: 'Archivo Black', sans-serif;
+}
+
+.bar p{
+	line-height: 100px;
+	font-family: 'Anton', sans-serif;
+}
+.contacts img {
+	width: 50px;
+	height: 50px;
+	margin-top: 50px;
+	padding: 20px;
+}
+.copyright {
+font-family: 'Archivo Black', sans-serif;
+color: #B7A16C;
+text-align: center;
+padding-top: 0.5%;
+padding-bottom: 0.5%;
+}
